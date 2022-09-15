@@ -1,75 +1,65 @@
-{ 
-"objects":[ 
-{ 
-"ID":"1",
-"JobTitle":"Lecturer",
-"EmailAddress":"Callie_Jobson2316@naiker.biz",
-"FirstNameLastName":"Callie Jobson"
-},
-{ 
-"ID":"2",
-"JobTitle":"Staffing Consultant",
-"EmailAddress":"Brad_Poulton8666@zorer.org",
-"FirstNameLastName":"Brad Poulton"
-},
-{ 
-"ID":"3",
-"JobTitle":"Bellman",
-"EmailAddress":"Alexia_Ramsey8690@acrit.org",
-"FirstNameLastName":"Alexia Ramsey"
-},
-{ 
-"ID":"4",
-"JobTitle":"Ambulatory Nurse",
-"EmailAddress":"Mike_Evans4069@deavo.com",
-"FirstNameLastName":"Mike Evans"
-},
-{ 
-"ID":"5",
-"JobTitle":"Bookkeeper",
-"EmailAddress":"Domenic_Eaton1993@joiniaa.com",
-"FirstNameLastName":"Domenic Eaton"
-},
-{ 
-"ID":"6",
-"JobTitle":"Food Technologist",
-"EmailAddress":"Jenna_Lloyd2960@bulaffy.com",
-"FirstNameLastName":"Jenna Lloyd"
-},
-{ 
-"ID":"7",
-"JobTitle":"Inspector",
-"EmailAddress":"Emma_Jacobs7585@extex.org",
-"FirstNameLastName":"Emma Jacobs"
-},
-{ 
-"ID":"8",
-"JobTitle":"Budget Analyst",
-"EmailAddress":"Elijah_Skinner8973@acrit.org",
-"FirstNameLastName":"Elijah Skinner"
-},
-{ 
-"ID":"9",
-"JobTitle":"Inspector",
-"EmailAddress":"Sara_Lewin5901@sheye.org",
-"FirstNameLastName":"Sara Lewin"
-},
-{ 
-"ID":"10",
-"JobTitle":"Design Engineer",
-"EmailAddress":"Natalie_Sherry9899@kideod.biz",
-"FirstNameLastName":"Natalie Sherry"
-},
-{ 
-"ID":"11",
-"JobTitle":"Call Center Representative",
-"EmailAddress":"Darlene_Thatcher3619@zorer.org",
-"FirstNameLastName":"Darlene Thatcher"
-},
-{ 
-"ID":"12",
-"JobTitle":"Webmaster",
-"EmailAddress":"Jules_Coates1685@bulaffy.com",
-"FirstNameLastName":"Jules Coates"
-}
-]}
+[
+	{
+		"name": "Chase Lamb",
+		"email": "diam.at@aol.org",
+		"numberrange": 1,
+		"phone": "1-752-621-6266",
+        "pic" :"https://images.pexels.com/photos/1391498/pexels-photo-1391498.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"name": "Phillip Daniel",
+		"email": "nibh.donec@yahoo.ca",
+		"numberrange": 3,
+		"phone": "1-651-863-5425",
+        "pic" :"https://images.pexels.com/photos/1468379/pexels-photo-1468379.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"name": "Deanna Payne",
+		"email": "maecenas.malesuada@yahoo.edu",
+		"numberrange": 2,
+		"phone": "(523) 418-7234",
+        "pic" :"https://images.pexels.com/photos/341970/pexels-photo-341970.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"name": "Cara Dillard",
+		"email": "praesent.eu.dui@icloud.ca",
+		"numberrange": 10,
+		"phone": "(208) 928-2170",
+        "pic" :"https://images.pexels.com/photos/1391499/pexels-photo-1391499.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"name": "Chelsea Boone",
+		"email": "nunc.ut@hotmail.org",
+		"numberrange": 4,
+		"phone": "1-622-227-0978",
+        "pic" :"https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+    {
+		"name": "Mina Boone",
+		"email": "mina.ut@hotmail.org",
+		"numberrange": 6,
+		"phone": "1-622-227-0978",
+        "pic" :"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+    {
+		"name": "Bilkis",
+		"email": "Bilkis.ut@hotmail.org",
+		"numberrange": 7,
+		"phone": "1-543-227-0978",
+        "pic" :"https://images.pexels.com/photos/725463/pexels-photo-725463.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+    {
+		"name": "Kulsum",
+		"email": "Kulsum.ut@hotmail.org",
+		"numberrange": 8,
+		"phone": "1-622-345-0978",
+        "pic" :"https://images.pexels.com/photos/1580272/pexels-photo-1580272.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+    {
+		"name": "sepali",
+		"email": "sepali.ut@hotmail.org",
+		"numberrange": 9,
+		"phone": "1-622-227-4322",
+        "pic" :"https://images.pexels.com/photos/1446161/pexels-photo-1446161.jpeg?auto=compress&cs=tinysrgb&w=600"
+	}
+]
